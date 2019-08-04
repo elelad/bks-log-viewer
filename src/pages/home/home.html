@@ -1,0 +1,45 @@
+<ion-header>
+  <ion-navbar color="dark">
+    <ion-title>
+      BKS Log Viewer
+    </ion-title>
+    <ion-buttons end>
+        <input hidden #fl type="file" accept=".json" multiple (change)="getFile($event)" />
+        <button item-end icon-start ion-button (click)="fl.value = '';fl.click()">
+            <ion-icon end name="download"></ion-icon>
+          Browse
+        </button>
+        <button item-end ion-button default clear icon-only color="danger" (click)="clearLogs()">
+          <ion-icon name="trash"></ion-icon>
+        </button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding class="back">
+  <ion-grid>
+    <ion-row justify-content-center>
+  <ion-col col-lg-10 col-xl-8>
+  <ion-card>
+    <!-- <ion-card-header>
+      <ion-item no-lines>
+        <input hidden #fl type="file" accept=".json" (change)="getFile($event)" />
+        <button item-end ion-button default (click)="fl.value = '';fl.click()">Browse</button>
+        <button item-end ion-button default clear icon-only color="danger" (click)="clearLogs()">
+          <ion-icon name="trash"></ion-icon>
+        </button>
+      </ion-item>
+    </ion-card-header> -->
+    <ion-toolbar>
+      <ionic-logging-viewer-search></ionic-logging-viewer-search>
+    </ion-toolbar>
+    <ion-toolbar>
+      <ionic-logging-viewer-levels></ionic-logging-viewer-levels>
+    </ion-toolbar>
+    <ionic-logging-viewer [logMessages]="messagesFromFile"></ionic-logging-viewer>
+  </ion-card>
+</ion-col>
+</ion-row>
+</ion-grid>
+
+</ion-content>
