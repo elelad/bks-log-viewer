@@ -1,1 +1,868 @@
-webpackJsonp([0],{103:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=103},104:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=104},105:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=105},110:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=110},114:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=114},115:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=115},119:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=119},153:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=153},155:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=155},159:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=159},184:function(n,e){function o(n){return Promise.resolve().then(function(){throw new Error("Cannot find module '"+n+"'.")})}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=184},185:function(n,e){function o(n){return Promise.resolve().then(function(){throw new Error("Cannot find module '"+n+"'.")})}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=185},191:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=191},195:function(n,e){function o(n){return Promise.resolve().then(function(){throw new Error("Cannot find module '"+n+"'.")})}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=195},199:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=199},201:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=201},202:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=202},210:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=210},231:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=231},241:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=241},243:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=243},244:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=244},25:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=25},250:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=250},254:function(n,e,o){"use strict";function l(n){return f["ɵvid"](0,[(n()(),f["ɵeld"](0,0,null,null,4,"ion-searchbar",[],[[2,"ng-untouched",null],[2,"ng-touched",null],[2,"ng-pristine",null],[2,"ng-dirty",null],[2,"ng-valid",null],[2,"ng-invalid",null],[2,"ng-pending",null],[2,"searchbar-animated",null],[2,"searchbar-has-value",null],[2,"searchbar-active",null],[2,"searchbar-show-cancel",null],[2,"searchbar-left-aligned",null],[2,"searchbar-has-focus",null]],[[null,"ngModelChange"],[null,"ionInput"]],function(n,e,o){var l=!0,t=n.component;if("ngModelChange"===e){l=!1!==(t.search=o)&&l}if("ionInput"===e){l=!1!==t.onSearchChanged()&&l}return l},Y.b,Y.a)),f["ɵdid"](1,671744,null,0,nn.NgModel,[[8,null],[8,null],[8,null],[8,null]],{model:[0,"model"]},{update:"ngModelChange"}),f["ɵprd"](2048,null,nn.NgControl,null,[nn.NgModel]),f["ɵdid"](3,16384,null,0,nn.NgControlStatus,[[4,nn.NgControl]],null,null),f["ɵdid"](4,1294336,null,0,en.Searchbar,[B.Config,X.Platform,f.ElementRef,f.Renderer,[2,nn.NgControl]],{placeholder:[0,"placeholder"]},{ionInput:"ionInput"})],function(n,e){var o=e.component;n(e,1,0,o.search);n(e,4,0,f["ɵinlineInterpolate"](1,"",o.placeholder,""))},function(n,e){n(e,0,1,[f["ɵnov"](e,3).ngClassUntouched,f["ɵnov"](e,3).ngClassTouched,f["ɵnov"](e,3).ngClassPristine,f["ɵnov"](e,3).ngClassDirty,f["ɵnov"](e,3).ngClassValid,f["ɵnov"](e,3).ngClassInvalid,f["ɵnov"](e,3).ngClassPending,f["ɵnov"](e,4)._animated,f["ɵnov"](e,4)._value,f["ɵnov"](e,4)._isActive,f["ɵnov"](e,4)._showCancelButton,f["ɵnov"](e,4)._shouldAlignLeft,f["ɵnov"](e,4)._isFocus])})}function t(n){return f["ɵvid"](0,[(n()(),f["ɵeld"](0,0,null,null,2,"ion-segment-button",[["class","segment-button"],["role","button"],["tappable",""]],[[2,"segment-button-disabled",null],[2,"segment-activated",null],[1,"aria-pressed",0]],[[null,"click"]],function(n,e,o){var l=!0;if("click"===e){l=!1!==f["ɵnov"](n,1).onClick()&&l}return l},tn.b,tn.a)),f["ɵdid"](1,114688,[[1,4]],0,rn.SegmentButton,[],{value:[0,"value"]},null),(n()(),f["ɵted"](2,0,[" "," "]))],function(n,e){n(e,1,0,e.context.$implicit)},function(n,e){n(e,0,0,f["ɵnov"](e,1)._disabled,f["ɵnov"](e,1).isActive,f["ɵnov"](e,1).isActive);n(e,2,0,e.context.$implicit)})}function r(n){return f["ɵvid"](0,[(n()(),f["ɵeld"](0,0,null,null,7,"ion-segment",[],[[2,"ng-untouched",null],[2,"ng-touched",null],[2,"ng-pristine",null],[2,"ng-dirty",null],[2,"ng-valid",null],[2,"ng-invalid",null],[2,"ng-pending",null],[2,"segment-disabled",null]],[[null,"ngModelChange"],[null,"ionChange"]],function(n,e,o){var l=!0,t=n.component;if("ngModelChange"===e){l=!1!==(t.selectedLevel=o)&&l}if("ionChange"===e){l=!1!==t.onLevelChanged()&&l}return l},null,null)),f["ɵdid"](1,671744,null,0,nn.NgModel,[[8,null],[8,null],[8,null],[8,null]],{model:[0,"model"]},{update:"ngModelChange"}),f["ɵprd"](2048,null,nn.NgControl,null,[nn.NgModel]),f["ɵdid"](3,16384,null,0,nn.NgControlStatus,[[4,nn.NgControl]],null,null),f["ɵdid"](4,1196032,null,1,un.Segment,[B.Config,f.ElementRef,f.Renderer,[2,nn.NgControl]],null,{ionChange:"ionChange"}),f["ɵqud"](603979776,1,{_buttons:1}),(n()(),f["ɵand"](16777216,null,null,1,null,t)),f["ɵdid"](7,278528,null,0,sn.NgForOf,[f.ViewContainerRef,f.TemplateRef,f.IterableDiffers],{ngForOf:[0,"ngForOf"]},null)],function(n,e){var o=e.component;n(e,1,0,o.selectedLevel);n(e,7,0,o.logLevels)},function(n,e){n(e,0,0,f["ɵnov"](e,3).ngClassUntouched,f["ɵnov"](e,3).ngClassTouched,f["ɵnov"](e,3).ngClassPristine,f["ɵnov"](e,3).ngClassDirty,f["ɵnov"](e,3).ngClassValid,f["ɵnov"](e,3).ngClassInvalid,f["ɵnov"](e,3).ngClassPending,f["ɵnov"](e,4)._disabled)})}function i(n){return f["ɵvid"](0,[(n()(),f["ɵeld"](0,0,null,null,1,"span",[],null,null,null,null,null)),(n()(),f["ɵted"](1,null,[" "," "]))],null,function(n,e){n(e,1,0,e.context.$implicit)})}function u(n){return f["ɵvid"](0,[(n()(),f["ɵeld"](0,0,null,null,14,"ion-item",[["class","item item-block"]],null,null,null,hn.b,hn.a)),f["ɵdid"](1,1097728,null,3,Cn.Item,[vn.Form,B.Config,f.ElementRef,f.Renderer,[2,wn.ItemReorder]],null,null),f["ɵqud"](335544320,1,{contentLabel:0}),f["ɵqud"](603979776,2,{_buttons:1}),f["ɵqud"](603979776,3,{_icons:1}),f["ɵdid"](5,16384,null,0,yn.ItemContent,[],null,null),(n()(),f["ɵeld"](6,0,null,2,2,"p",[],null,null,null,null,null)),(n()(),f["ɵted"](7,null,[""," ",""])),f["ɵppd"](8,2),(n()(),f["ɵeld"](9,0,null,2,1,"p",[],null,null,null,null,null)),(n()(),f["ɵted"](10,null,["",""])),(n()(),f["ɵeld"](11,0,null,2,3,"p",[],null,null,null,null,null)),(n()(),f["ɵted"](12,null,[" "," "])),(n()(),f["ɵand"](16777216,null,null,1,null,i)),f["ɵdid"](14,278528,null,0,sn.NgForOf,[f.ViewContainerRef,f.TemplateRef,f.IterableDiffers],{ngForOf:[0,"ngForOf"]},null)],function(n,e){n(e,14,0,e.context.$implicit.message)},function(n,e){n(e,7,0,f["ɵunv"](e,7,0,n(e,8,0,f["ɵnov"](e.parent,0),e.context.$implicit.timeStamp,"dd.MM.yyyy HH:mm:ss")),e.context.$implicit.level);n(e,10,0,e.context.$implicit.logger);n(e,12,0,e.context.$implicit.methodName)})}function s(n){return f["ɵvid"](0,[f["ɵpid"](0,sn.DatePipe,[f.LOCALE_ID]),(n()(),f["ɵeld"](1,0,null,null,3,"ion-list",[],null,null,null,null,null)),f["ɵdid"](2,16384,null,0,bn.List,[B.Config,f.ElementRef,f.Renderer,X.Platform,En.GestureController,gn.DomController],null,null),(n()(),f["ɵand"](16777216,null,null,1,null,u)),f["ɵdid"](4,278528,null,0,sn.NgForOf,[f.ViewContainerRef,f.TemplateRef,f.IterableDiffers],{ngForOf:[0,"ngForOf"]},null)],function(n,e){n(e,4,0,e.component.logMessagesForDisplay)},null)}function a(n){return f["ɵvid"](0,[(n()(),f["ɵeld"](0,0,null,null,26,"ion-header",[],null,null,null,null,null)),f["ɵdid"](1,16384,null,0,V.Header,[B.Config,f.ElementRef,f.Renderer,[2,H.ViewController]],null,null),(n()(),f["ɵeld"](2,0,null,null,16,"ion-toolbar",[["class","toolbar"],["color","primary"]],[[2,"statusbar-padding",null]],null,null,G.b,G.a)),f["ɵdid"](3,49152,null,0,U.Toolbar,[B.Config,f.ElementRef,f.Renderer],{color:[0,"color"]},null),(n()(),f["ɵeld"](4,0,null,3,2,"ion-title",[],null,null,null,j.b,j.a)),f["ɵdid"](5,49152,null,0,Z.ToolbarTitle,[B.Config,f.ElementRef,f.Renderer,[2,U.Toolbar],[2,K.Navbar]],null,null),(n()(),f["ɵted"](6,0,["",""])),(n()(),f["ɵeld"](7,0,null,1,11,"ion-buttons",[["start",""]],null,null,null,null,null)),f["ɵdid"](8,16384,null,1,z.ToolbarItem,[B.Config,f.ElementRef,f.Renderer,[2,U.Toolbar],[2,K.Navbar]],null,null),f["ɵqud"](603979776,1,{_buttons:1}),(n()(),f["ɵeld"](10,0,null,null,3,"button",[["hideWhen","android,windows"],["ion-button",""]],[[2,"hidden-hide-when",null]],[[null,"click"]],function(n,e,o){var l=!0;if("click"===e){l=!1!==n.component.onClose()&&l}return l},$.b,$.a)),f["ɵdid"](11,1097728,[[1,4]],0,q.Button,[[8,""],B.Config,f.ElementRef,f.Renderer],null,null),f["ɵdid"](12,147456,null,0,W.HideWhen,[[8,"android,windows"],X.Platform,f.NgZone],null,null),(n()(),f["ɵted"](13,0,["",""])),(n()(),f["ɵeld"](14,0,null,null,4,"button",[["icon-only",""],["ion-button",""],["showWhen","android,windows"]],[[2,"hidden-show-when",null]],[[null,"click"]],function(n,e,o){var l=!0;if("click"===e){l=!1!==n.component.onClose()&&l}return l},$.b,$.a)),f["ɵdid"](15,1097728,[[1,4]],0,q.Button,[[8,""],B.Config,f.ElementRef,f.Renderer],null,null),f["ɵdid"](16,147456,null,0,J.ShowWhen,[[8,"android,windows"],X.Platform,f.NgZone],null,null),(n()(),f["ɵeld"](17,0,null,0,1,"ion-icon",[["name","md-close"],["role","img"]],[[2,"hide",null]],null,null,null,null)),f["ɵdid"](18,147456,null,0,Q.Icon,[B.Config,f.ElementRef,f.Renderer],{name:[0,"name"]},null),(n()(),f["ɵeld"](19,0,null,null,3,"ion-toolbar",[["class","toolbar"]],[[2,"statusbar-padding",null]],null,null,G.b,G.a)),f["ɵdid"](20,49152,null,0,U.Toolbar,[B.Config,f.ElementRef,f.Renderer],null,null),(n()(),f["ɵeld"](21,0,null,3,1,"ionic-logging-viewer-search",[],null,null,null,l,ln)),f["ɵdid"](22,245760,null,0,R,[on.a,v],{placeholder:[0,"placeholder"]},null),(n()(),f["ɵeld"](23,0,null,null,3,"ion-toolbar",[["class","toolbar"]],[[2,"statusbar-padding",null]],null,null,G.b,G.a)),f["ɵdid"](24,49152,null,0,U.Toolbar,[B.Config,f.ElementRef,f.Renderer],null,null),(n()(),f["ɵeld"](25,0,null,3,1,"ionic-logging-viewer-levels",[],null,null,null,r,an)),f["ɵdid"](26,245760,null,0,b,[on.a,v],null,null),(n()(),f["ɵeld"](27,0,null,null,3,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,dn.b,dn.a)),f["ɵdid"](28,4374528,null,0,cn.Content,[B.Config,X.Platform,gn.DomController,f.ElementRef,f.Renderer,fn.App,pn.Keyboard,f.NgZone,[2,H.ViewController],[2,mn.NavController]],null,null),(n()(),f["ɵeld"](29,0,null,1,1,"ionic-logging-viewer",[],null,null,null,s,kn)),f["ɵdid"](30,245760,null,0,M,[on.a,v],null,null)],function(n,e){var o=e.component;n(e,3,0,"primary");n(e,18,0,"md-close");n(e,22,0,o.getTranslation().searchPlaceholder),n(e,26,0),n(e,30,0)},function(n,e){var o=e.component;n(e,2,0,f["ɵnov"](e,3)._sbPadding);n(e,6,0,o.getTranslation().title);n(e,10,0,f["ɵnov"](e,12).isMatch);n(e,13,0,o.getTranslation().cancel);n(e,14,0,!f["ɵnov"](e,16).isMatch);n(e,17,0,f["ɵnov"](e,18)._hidden);n(e,19,0,f["ɵnov"](e,20)._sbPadding);n(e,23,0,f["ɵnov"](e,24)._sbPadding);n(e,27,0,f["ɵnov"](e,28).statusbarPadding,f["ɵnov"](e,28)._hasRefresher)})}function d(n){return f["ɵvid"](0,[(n()(),f["ɵeld"](0,0,null,null,2,"ion-nav",[],null,null,null,_n.b,_n.a)),f["ɵprd"](6144,null,Ln.RootNode,null,[Sn.Nav]),f["ɵdid"](2,4374528,null,0,Sn.Nav,[[2,H.ViewController],[2,mn.NavController],fn.App,B.Config,X.Platform,f.ElementRef,f.NgZone,f.Renderer,f.ComponentFactoryResolver,En.GestureController,Fn.TransitionController,[2,Pn.DeepLinker],gn.DomController,f.ErrorHandler],{root:[0,"root"]},null)],function(n,e){n(e,2,0,e.component.rootPage)},null)}function c(n){return f["ɵvid"](0,[(n()(),f["ɵeld"](0,0,null,null,19,"ion-header",[],null,null,null,null,null)),f["ɵdid"](1,16384,null,0,V.Header,[B.Config,f.ElementRef,f.Renderer,[2,H.ViewController]],null,null),(n()(),f["ɵeld"](2,0,null,null,17,"ion-navbar",[["class","toolbar"],["color","dark"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Tn.b,Tn.a)),f["ɵdid"](3,49152,null,0,K.Navbar,[fn.App,[2,H.ViewController],[2,mn.NavController],B.Config,f.ElementRef,f.Renderer],{color:[0,"color"]},null),(n()(),f["ɵeld"](4,0,null,3,2,"ion-title",[],null,null,null,j.b,j.a)),f["ɵdid"](5,49152,null,0,Z.ToolbarTitle,[B.Config,f.ElementRef,f.Renderer,[2,U.Toolbar],[2,K.Navbar]],null,null),(n()(),f["ɵted"](-1,0,[" BKS Log Viewer "])),(n()(),f["ɵeld"](7,0,null,2,12,"ion-buttons",[["end",""]],null,null,null,null,null)),f["ɵdid"](8,16384,null,1,z.ToolbarItem,[B.Config,f.ElementRef,f.Renderer,[2,U.Toolbar],[2,K.Navbar]],null,null),f["ɵqud"](603979776,1,{_buttons:1}),(n()(),f["ɵeld"](10,0,[["fl",1]],null,0,"input",[["accept",".json"],["hidden",""],["multiple",""],["type","file"]],null,[[null,"change"]],function(n,e,o){var l=!0;if("change"===e){l=!1!==n.component.getFile(o)&&l}return l},null,null)),(n()(),f["ɵeld"](11,0,null,null,4,"button",[["icon-start",""],["ion-button",""],["item-end",""]],null,[[null,"click"]],function(n,e,o){var l=!0;if("click"===e){f["ɵnov"](n,10).value="";l=!1!==f["ɵnov"](n,10).click()&&l}return l},$.b,$.a)),f["ɵdid"](12,1097728,[[1,4]],0,q.Button,[[8,""],B.Config,f.ElementRef,f.Renderer],null,null),(n()(),f["ɵeld"](13,0,null,0,1,"ion-icon",[["end",""],["name","download"],["role","img"]],[[2,"hide",null]],null,null,null,null)),f["ɵdid"](14,147456,null,0,Q.Icon,[B.Config,f.ElementRef,f.Renderer],{name:[0,"name"]},null),(n()(),f["ɵted"](-1,0,[" Browse "])),(n()(),f["ɵeld"](16,0,null,null,3,"button",[["clear",""],["color","danger"],["default",""],["icon-only",""],["ion-button",""],["item-end",""]],null,[[null,"click"]],function(n,e,o){var l=!0;if("click"===e){l=!1!==n.component.clearLogs()&&l}return l},$.b,$.a)),f["ɵdid"](17,1097728,[[1,4]],0,q.Button,[[8,""],B.Config,f.ElementRef,f.Renderer],{color:[0,"color"],default:[1,"default"],clear:[2,"clear"]},null),(n()(),f["ɵeld"](18,0,null,0,1,"ion-icon",[["name","trash"],["role","img"]],[[2,"hide",null]],null,null,null,null)),f["ɵdid"](19,147456,null,0,Q.Icon,[B.Config,f.ElementRef,f.Renderer],{name:[0,"name"]},null),(n()(),f["ɵeld"](20,0,null,null,19,"ion-content",[["class","back"],["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,dn.b,dn.a)),f["ɵdid"](21,4374528,null,0,cn.Content,[B.Config,X.Platform,gn.DomController,f.ElementRef,f.Renderer,fn.App,pn.Keyboard,f.NgZone,[2,H.ViewController],[2,mn.NavController]],null,null),(n()(),f["ɵeld"](22,0,null,1,17,"ion-grid",[["class","grid"]],null,null,null,null,null)),f["ɵdid"](23,16384,null,0,In.Grid,[],null,null),(n()(),f["ɵeld"](24,0,null,null,15,"ion-row",[["class","row"],["justify-content-center",""]],null,null,null,null,null)),f["ɵdid"](25,16384,null,0,An.Row,[],null,null),(n()(),f["ɵeld"](26,0,null,null,13,"ion-col",[["class","col"],["col-lg-10",""],["col-xl-8",""]],null,null,null,null,null)),f["ɵdid"](27,16384,null,0,On.Col,[],null,null),(n()(),f["ɵeld"](28,0,null,null,11,"ion-card",[],null,null,null,null,null)),f["ɵdid"](29,16384,null,0,Vn.Card,[B.Config,f.ElementRef,f.Renderer],null,null),(n()(),f["ɵeld"](30,0,null,null,3,"ion-toolbar",[["class","toolbar"]],[[2,"statusbar-padding",null]],null,null,G.b,G.a)),f["ɵdid"](31,49152,null,0,U.Toolbar,[B.Config,f.ElementRef,f.Renderer],null,null),(n()(),f["ɵeld"](32,0,null,3,1,"ionic-logging-viewer-search",[],null,null,null,l,ln)),f["ɵdid"](33,245760,null,0,R,[on.a,v],null,null),(n()(),f["ɵeld"](34,0,null,null,3,"ion-toolbar",[["class","toolbar"]],[[2,"statusbar-padding",null]],null,null,G.b,G.a)),f["ɵdid"](35,49152,null,0,U.Toolbar,[B.Config,f.ElementRef,f.Renderer],null,null),(n()(),f["ɵeld"](36,0,null,3,1,"ionic-logging-viewer-levels",[],null,null,null,r,an)),f["ɵdid"](37,245760,null,0,b,[on.a,v],null,null),(n()(),f["ɵeld"](38,0,null,null,1,"ionic-logging-viewer",[],null,null,null,s,kn)),f["ɵdid"](39,245760,null,0,M,[on.a,v],{logMessages:[0,"logMessages"]},null)],function(n,e){var o=e.component;n(e,3,0,"dark");n(e,14,0,"download");n(e,17,0,"danger","","");n(e,19,0,"trash"),n(e,33,0),n(e,37,0);n(e,39,0,o.messagesFromFile)},function(n,e){n(e,2,0,f["ɵnov"](e,3)._hidden,f["ɵnov"](e,3)._sbPadding);n(e,13,0,f["ɵnov"](e,14)._hidden);n(e,18,0,f["ɵnov"](e,19)._hidden);n(e,20,0,f["ɵnov"](e,21).statusbarPadding,f["ɵnov"](e,21)._hasRefresher);n(e,30,0,f["ɵnov"](e,31)._sbPadding);n(e,34,0,f["ɵnov"](e,35)._sbPadding)})}Object.defineProperty(e,"__esModule",{value:!0});var g=o(34),f=o(0),p=(o(1),o(134)),m=(o(51),o(98)),h=o(99),C=o(52),v=function(){function n(n){this.logger=n.getLogger("Ionic.Logging.Viewer.Filter.Service");this.logger.entry("ctor"),this.levelValue="DEBUG",this.searchValue="",this.filterChanged=new f.EventEmitter,this.logger.exit("ctor")}return Object.defineProperty(n.prototype,"level",{get:function(){return this.levelValue},set:function(n){this.levelValue=n,this.filterChanged.emit()},enumerable:!0,configurable:!0}),Object.defineProperty(n.prototype,"search",{get:function(){return this.searchValue},set:function(n){this.searchValue=n,this.filterChanged.emit()},enumerable:!0,configurable:!0}),n}(),w=function(){function n(n,e,o,l){this.navCtrl=n,this.loggingViewerFilterService=e,this.toastCtrl=o,this.platform=l,this.level="0",this.maxMessagesToLogToFile=0,this.maxFilesToSave=3,this.messagesFromFile=[],this.meassage="log something..."}return n.prototype.getFile=function(n){var e=this,o=n.target.files;console.log(o);for(var l=[],t=0,r=o;t<r.length;t++){l.push(this.readFormFile(r[t]))}Promise.all(l).then(function(){e.messagesFromFile.sort(function(n,e){return new Date(n.timeStamp).getTime()-new Date(e.timeStamp).getTime()}),e.loggingViewerFilterService.filterChanged.emit()})},n.prototype.readFormFile=function(n){var e=this;return new Promise(function(o,l){var t=new FileReader;t.onerror=function(n){l(n)},t.onload=function(n){var o;if(2===t.readyState){var l=t.result;try{e.messagesFromFile=(o=e.messagesFromFile).concat.apply(o,JSON.parse(l))}catch(n){e.toast(n)}}},t.onloadend=function(){o("done")},t.readAsText(n)})},n.prototype.clearLogs=function(){var n=this;console.log("clearLogs"),this.messagesFromFile=[],setTimeout(function(){n.loggingViewerFilterService.filterChanged.emit()},20)},n.prototype.toast=function(n){this.toastCtrl.create({message:n,duration:3e3}).present()},n}(),y=function(){return function(n,e,o){this.rootPage=w,n.ready().then(function(){e.styleDefault(),e.styleLightContent(),o.hide()})}}(),b=function(){function n(n,e){this.loggingViewerFilterService=e,this.logger=n.getLogger("Ionic.Logging.Viewer.Levels.Component");this.logger.entry("ctor"),this.logLevels=[],this.logLevels.push("DEBUG","INFO","WARN","ERROR"),this.selectedLevel=e.level,this.logger.exit("ctor")}return n.prototype.ngOnInit=function(){var n=this;this.logger.entry("ngOnInit"),this.filterChangedSubscription=this.loggingViewerFilterService.filterChanged.subscribe(function(){n.selectedLevel=n.loggingViewerFilterService.level}),this.logger.exit("ngOnInit")},n.prototype.ngOnDestroy=function(){this.logger.entry("ngOnDestroy"),this.filterChangedSubscription.unsubscribe(),this.logger.exit("ngOnDestroy")},n.prototype.onLevelChanged=function(){var n="onLevelChanged";this.logger.entry(n,this.selectedLevel),this.loggingViewerFilterService.level=this.selectedLevel,this.logger.exit(n)},n}(),E=function(){function n(n,e,o){this.viewController=n,this.logger=o.getLogger("Ionic.Logging.Viewer.Modal.Component");this.logger.entry("ctor"),this.language=e.get("language"),this.translation=e.get("translation"),this.logger.exit("ctor")}return n.prototype.ngOnInit=function(){this.translations={},this.translations.en={cancel:"Cancel",searchPlaceholder:"Search",title:"Logging"},this.translations.de={cancel:"Abbrechen",searchPlaceholder:"Suchen",title:"Konfiguration"}},n.prototype.ionViewDidEnter=function(){var n="ionViewDidEnter";this.logger.entry(n),this.logger.exit(n)},n.prototype.onClose=function(){this.logger.entry("onClose"),this.viewController.dismiss(),this.logger.exit("onClose")},n.prototype.getTranslation=function(){return void 0!==this.translation?this.translation:void 0!==this.language&&"object"==typeof this.translations[this.language]?this.translations[this.language]:this.translations.en},n}(),k=function(){function n(n,e){this.modalController=n,this.modalClosed=new f.EventEmitter,this.logger=e.getLogger("Ionic.Logging.Viewer.Modal.Manager");this.logger.entry("ctor"),this.logger.exit("ctor")}return n.prototype.openModal=function(n,e){var o=this;this.logger.entry("openModal");var l=this.modalController.create(E,{language:n,translation:e});l.onDidDismiss(function(){o.onModalClosed()});var t=l.present();return this.logger.exit("openModal"),t},n.prototype.onModalClosed=function(){var n="onModalClosed";this.logger.entry(n),this.modalClosed.emit(),this.logger.exit(n)},n}(),R=function(){function n(n,e){this.loggingViewerFilterService=e,this.logger=n.getLogger("Ionic.Logging.Viewer.Search.Component");this.logger.entry("ctor"),this.placeholder||(this.placeholder="Search"),this.search=this.loggingViewerFilterService.search,this.logger.exit("ctor")}return n.prototype.ngOnInit=function(){var n=this;this.logger.entry("ngOnInit"),this.filterChangedSubscription=this.loggingViewerFilterService.filterChanged.subscribe(function(){n.search=n.loggingViewerFilterService.search}),this.logger.exit("ngOnInit")},n.prototype.ngOnDestroy=function(){this.logger.entry("ngOnDestroy"),this.filterChangedSubscription.unsubscribe(),this.logger.exit("ngOnDestroy")},n.prototype.onSearchChanged=function(){var n="onSearchChanged";this.logger.entry(n),this.loggingViewerFilterService.search=this.search,this.logger.exit(n)},n}(),M=function(){function n(n,e){this.loggingService=n,this.loggingViewerFilterService=e,this.logger=n.getLogger("Ionic.Logging.Viewer.Component");this.logger.entry("ctor"),this.logger.exit("ctor")}return n.prototype.ngOnInit=function(){var n=this;this.logger.entry("ngOnInit"),this.filterLogMessages(),this.logMessagesChangedSubscription=this.loggingService.logMessagesChanged.subscribe(function(){n.logMessages=n.loggingService.getLogMessages(),n.filterLogMessages()}),this.filterChangedSubscription=this.loggingViewerFilterService.filterChanged.subscribe(function(){n.filterLogMessages()}),this.logger.exit("ngOnInit")},n.prototype.ngOnDestroy=function(){this.logger.entry("ngOnDestroy"),this.logMessagesChangedSubscription.unsubscribe(),this.filterChangedSubscription.unsubscribe(),this.logger.exit("ngOnDestroy")},n.prototype.filterLogMessages=function(){var n=this;this.logMessagesForDisplay=this.logMessages.filter(function(e){return n.filterLogMessagesByLevel(e)&&n.filterLogMessagesBySearch(e)})},n.prototype.filterLogMessagesByLevel=function(n){var e=this.loggingViewerFilterService.level;return C.a.levelFromString(n.level)>=C.a.levelFromString(e)},n.prototype.filterLogMessagesBySearch=function(n){var e=new RegExp(this.loggingViewerFilterService.search,"i");return n.logger.search(e)>=0||n.methodName.search(e)>=0||n.message.join("|").search(e)>=0},n}(),x=function(){return function(){}}(),_=function(){return function(){}}(),L=o(101),S=o(273),F=o(277),P=o(278),D=o(279),N=o(281),T=o(282),I=o(284),A=o(285),O=o(290),V=o(151),B=o(2),H=o(6),G=o(203),U=o(58),j=o(205),Z=o(111),K=o(49),z=o(152),$=o(39),q=o(23),W=o(206),X=o(4),J=o(208),Q=o(46),Y=o(291),nn=o(14),en=o(154),on=o(53),ln=f["ɵcrt"]({encapsulation:2,styles:[],data:{}}),tn=o(293),rn=o(112),un=o(211),sn=o(15),an=f["ɵcrt"]({encapsulation:2,styles:[],data:{}}),dn=o(212),cn=o(33),gn=o(13),fn=o(12),pn=o(48),mn=o(26),hn=o(196),Cn=o(27),vn=o(24),wn=o(84),yn=o(147),bn=o(109),En=o(9),kn=f["ɵcrt"]({encapsulation:2,styles:[],data:{}}),Rn=o(16),Mn=f["ɵcrt"]({encapsulation:2,styles:[],data:{}}),xn=f["ɵccf"]("ng-component",E,function(n){return f["ɵvid"](0,[(n()(),f["ɵeld"](0,0,null,null,1,"ng-component",[],null,null,null,a,Mn)),f["ɵdid"](1,114688,null,0,E,[H.ViewController,Rn.NavParams,on.a],null,null)],function(n,e){n(e,1,0)},null)},{},{},[]),_n=o(294),Ln=o(70),Sn=o(113),Fn=o(45),Pn=o(22),Dn=f["ɵcrt"]({encapsulation:2,styles:[],data:{}}),Nn=f["ɵccf"]("ng-component",y,function(n){return f["ɵvid"](0,[(n()(),f["ɵeld"](0,0,null,null,1,"ng-component",[],null,null,null,d,Dn)),f["ɵdid"](1,49152,null,0,y,[X.Platform,h.a,m.a],null,null)],null,null)},{},{},[]),Tn=o(296),In=o(213),An=o(214),On=o(215),Vn=o(216),Bn=o(156),Hn=f["ɵcrt"]({encapsulation:2,styles:[],data:{}}),Gn=f["ɵccf"]("page-home",w,function(n){return f["ɵvid"](0,[(n()(),f["ɵeld"](0,0,null,null,1,"page-home",[],null,null,null,c,Hn)),f["ɵdid"](1,49152,null,0,w,[mn.NavController,v,Bn.ToastController,X.Platform],null,null)],null,null)},{},{},[]),Un=o(217),jn=o(190),Zn=o(102),Kn=o(299),zn=o(68),$n=o(234),qn=o(225),Wn=o(227),Xn=o(218),Jn=o(56),Qn=o(233),Yn=o(157),ne=o(239),ee=o(221),oe=o(367),le=o(219),te=o(65),re=o(143),ie=o(224),ue=f["ɵcmf"](_,[L.IonicApp],function(n){return f["ɵmod"]([f["ɵmpd"](512,f.ComponentFactoryResolver,f["ɵCodegenComponentFactoryResolver"],[[8,[S.a,F.a,P.a,D.a,N.a,T.a,I.a,A.a,O.a,xn,Nn,Gn]],[3,f.ComponentFactoryResolver],f.NgModuleRef]),f["ɵmpd"](5120,f.LOCALE_ID,f["ɵangular_packages_core_core_r"],[[3,f.LOCALE_ID]]),f["ɵmpd"](4608,sn.NgLocalization,sn.NgLocaleLocalization,[f.LOCALE_ID,[2,sn["ɵangular_packages_common_common_a"]]]),f["ɵmpd"](5120,f.APP_ID,f["ɵangular_packages_core_core_g"],[]),f["ɵmpd"](5120,f.IterableDiffers,f["ɵangular_packages_core_core_p"],[]),f["ɵmpd"](5120,f.KeyValueDiffers,f["ɵangular_packages_core_core_q"],[]),f["ɵmpd"](4608,g.DomSanitizer,g["ɵDomSanitizerImpl"],[sn.DOCUMENT]),f["ɵmpd"](6144,f.Sanitizer,null,[g.DomSanitizer]),f["ɵmpd"](4608,g.HAMMER_GESTURE_CONFIG,Un.IonicGestureConfig,[]),f["ɵmpd"](5120,g.EVENT_MANAGER_PLUGINS,function(n,e,o,l,t,r,i,u){return[new g["ɵDomEventsPlugin"](n,e,o),new g["ɵKeyEventsPlugin"](l),new g["ɵHammerGesturesPlugin"](t,r,i,u)]},[sn.DOCUMENT,f.NgZone,f.PLATFORM_ID,sn.DOCUMENT,sn.DOCUMENT,g.HAMMER_GESTURE_CONFIG,f["ɵConsole"],[2,g.HAMMER_LOADER]]),f["ɵmpd"](4608,g.EventManager,g.EventManager,[g.EVENT_MANAGER_PLUGINS,f.NgZone]),f["ɵmpd"](135680,g["ɵDomSharedStylesHost"],g["ɵDomSharedStylesHost"],[sn.DOCUMENT]),f["ɵmpd"](4608,g["ɵDomRendererFactory2"],g["ɵDomRendererFactory2"],[g.EventManager,g["ɵDomSharedStylesHost"]]),f["ɵmpd"](6144,f.RendererFactory2,null,[g["ɵDomRendererFactory2"]]),f["ɵmpd"](6144,g["ɵSharedStylesHost"],null,[g["ɵDomSharedStylesHost"]]),f["ɵmpd"](4608,f.Testability,f.Testability,[f.NgZone]),f["ɵmpd"](4608,p.h,p.n,[sn.DOCUMENT,f.PLATFORM_ID,p.l]),f["ɵmpd"](4608,p.o,p.o,[p.h,p.m]),f["ɵmpd"](5120,p.a,function(n){return[n]},[p.o]),f["ɵmpd"](4608,p.k,p.k,[]),f["ɵmpd"](6144,p.i,null,[p.k]),f["ɵmpd"](4608,p.g,p.g,[p.i]),f["ɵmpd"](6144,p.b,null,[p.g]),f["ɵmpd"](4608,p.f,p.j,[p.b,f.Injector]),f["ɵmpd"](4608,p.c,p.c,[p.f]),f["ɵmpd"](4608,nn["ɵangular_packages_forms_forms_j"],nn["ɵangular_packages_forms_forms_j"],[]),f["ɵmpd"](4608,nn.FormBuilder,nn.FormBuilder,[]),f["ɵmpd"](4608,on.a,on.a,[[2,jn.a]]),f["ɵmpd"](4608,v,v,[on.a]),f["ɵmpd"](5120,Zn.UrlSerializer,Zn.setupUrlSerializer,[fn.App,Zn.DeepLinkConfigToken]),f["ɵmpd"](5120,sn.LocationStrategy,Kn.provideLocationStrategy,[sn.PlatformLocation,[2,sn.APP_BASE_HREF],B.Config]),f["ɵmpd"](4608,sn.Location,sn.Location,[sn.LocationStrategy]),f["ɵmpd"](5120,Pn.DeepLinker,Pn.setupDeepLinker,[fn.App,Zn.UrlSerializer,sn.Location,zn.ModuleLoader,f.ComponentFactoryResolver]),f["ɵmpd"](4608,$n.ModalController,$n.ModalController,[fn.App,B.Config,Pn.DeepLinker]),f["ɵmpd"](4608,k,k,[$n.ModalController,on.a]),f["ɵmpd"](4608,qn.ActionSheetController,qn.ActionSheetController,[fn.App,B.Config]),f["ɵmpd"](4608,Wn.AlertController,Wn.AlertController,[fn.App,B.Config]),f["ɵmpd"](4608,Xn.Events,Xn.Events,[]),f["ɵmpd"](4608,vn.Form,vn.Form,[]),f["ɵmpd"](4608,Jn.Haptic,Jn.Haptic,[X.Platform]),f["ɵmpd"](4608,pn.Keyboard,pn.Keyboard,[B.Config,X.Platform,f.NgZone,gn.DomController]),f["ɵmpd"](4608,Qn.LoadingController,Qn.LoadingController,[fn.App,B.Config]),f["ɵmpd"](4608,Yn.PickerController,Yn.PickerController,[fn.App,B.Config]),f["ɵmpd"](4608,ne.PopoverController,ne.PopoverController,[fn.App,B.Config,Pn.DeepLinker]),f["ɵmpd"](4608,ee.TapClick,ee.TapClick,[B.Config,X.Platform,gn.DomController,fn.App,En.GestureController]),f["ɵmpd"](4608,Bn.ToastController,Bn.ToastController,[fn.App,B.Config]),f["ɵmpd"](4608,Fn.TransitionController,Fn.TransitionController,[X.Platform,B.Config]),f["ɵmpd"](4608,h.a,h.a,[]),f["ɵmpd"](4608,m.a,m.a,[]),f["ɵmpd"](1073742336,sn.CommonModule,sn.CommonModule,[]),f["ɵmpd"](512,f.ErrorHandler,oe.IonicErrorHandler,[]),f["ɵmpd"](256,B.ConfigToken,{},[]),f["ɵmpd"](1024,le.PlatformConfigToken,le.providePlatformConfigs,[]),f["ɵmpd"](1024,X.Platform,X.setupPlatform,[g.DOCUMENT,le.PlatformConfigToken,f.NgZone]),f["ɵmpd"](1024,B.Config,B.setupConfig,[B.ConfigToken,X.Platform]),f["ɵmpd"](512,gn.DomController,gn.DomController,[X.Platform]),f["ɵmpd"](512,te.MenuController,te.MenuController,[]),f["ɵmpd"](512,fn.App,fn.App,[B.Config,X.Platform,[2,te.MenuController]]),f["ɵmpd"](512,En.GestureController,En.GestureController,[fn.App]),f["ɵmpd"](256,Zn.DeepLinkConfigToken,{links:[]},[]),f["ɵmpd"](512,f.Compiler,f.Compiler,[]),f["ɵmpd"](512,re.NgModuleLoader,re.NgModuleLoader,[f.Compiler]),f["ɵmpd"](1024,zn.ModuleLoader,zn.provideModuleLoader,[re.NgModuleLoader,f.Injector]),f["ɵmpd"](1024,f.APP_INITIALIZER,function(n,e,o,l,t,r,i,u,s,a,d,c,f){return[g["ɵangular_packages_platform_browser_platform_browser_j"](n),ie.registerModeConfigs(e),Xn.setupProvideEvents(o,l),ee.setupTapClick(t,r,i,u,s),zn.setupPreloading(a,d,c,f)]},[[2,f.NgProbeToken],B.Config,X.Platform,gn.DomController,B.Config,X.Platform,gn.DomController,fn.App,En.GestureController,B.Config,Zn.DeepLinkConfigToken,zn.ModuleLoader,f.NgZone]),f["ɵmpd"](512,f.ApplicationInitStatus,f.ApplicationInitStatus,[[2,f.APP_INITIALIZER]]),f["ɵmpd"](131584,f.ApplicationRef,f.ApplicationRef,[f.NgZone,f["ɵConsole"],f.Injector,f.ErrorHandler,f.ComponentFactoryResolver,f.ApplicationInitStatus]),f["ɵmpd"](1073742336,f.ApplicationModule,f.ApplicationModule,[f.ApplicationRef]),f["ɵmpd"](1073742336,g.BrowserModule,g.BrowserModule,[[3,g.BrowserModule]]),f["ɵmpd"](1073742336,p.e,p.e,[]),f["ɵmpd"](1073742336,p.d,p.d,[]),f["ɵmpd"](1073742336,nn["ɵangular_packages_forms_forms_bc"],nn["ɵangular_packages_forms_forms_bc"],[]),f["ɵmpd"](1073742336,nn.FormsModule,nn.FormsModule,[]),f["ɵmpd"](1073742336,nn.ReactiveFormsModule,nn.ReactiveFormsModule,[]),f["ɵmpd"](1073742336,Kn.IonicModule,Kn.IonicModule,[]),f["ɵmpd"](1073742336,x,x,[]),f["ɵmpd"](1073742336,_,_,[]),f["ɵmpd"](256,f["ɵAPP_ROOT"],!0,[]),f["ɵmpd"](256,p.l,"XSRF-TOKEN",[]),f["ɵmpd"](256,p.m,"X-XSRF-TOKEN",[]),f["ɵmpd"](256,sn.APP_BASE_HREF,"/",[]),f["ɵmpd"](256,L.AppRootToken,y,[])])});Object(f.enableProdMode)(),Object(g.platformBrowser)().bootstrapModuleFactory(ue)},266:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=266},269:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=269},274:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=274},275:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=275},276:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=276},280:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=280},286:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=286},288:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=288},292:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=292},295:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=295},300:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=300},305:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=305},307:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=307},31:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=31},312:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=312},314:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=314},316:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=316},32:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=32},322:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=322},325:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=325},341:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=341},342:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=342},349:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=349},359:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=359},364:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=364},38:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=38},43:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=43},55:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=55},57:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=57},64:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=64},66:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=66},69:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=69},81:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=81},82:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=82},83:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=83},85:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=85},86:function(n,e){function o(n){throw new Error("Cannot find module '"+n+"'.")}o.keys=function(){return[]},o.resolve=o,n.exports=o,o.id=86}},[254]);
+webpackJsonp([0],{
+
+/***/ 179:
+/***/ (function(module, exports) {
+
+function webpackEmptyAsyncContext(req) {
+	// Here Promise.resolve().then() is used instead of new Promise() to prevent
+	// uncatched exception popping up in devtools
+	return Promise.resolve().then(function() {
+		throw new Error("Cannot find module '" + req + "'.");
+	});
+}
+webpackEmptyAsyncContext.keys = function() { return []; };
+webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
+module.exports = webpackEmptyAsyncContext;
+webpackEmptyAsyncContext.id = 179;
+
+/***/ }),
+
+/***/ 222:
+/***/ (function(module, exports) {
+
+function webpackEmptyAsyncContext(req) {
+	// Here Promise.resolve().then() is used instead of new Promise() to prevent
+	// uncatched exception popping up in devtools
+	return Promise.resolve().then(function() {
+		throw new Error("Cannot find module '" + req + "'.");
+	});
+}
+webpackEmptyAsyncContext.keys = function() { return []; };
+webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
+module.exports = webpackEmptyAsyncContext;
+webpackEmptyAsyncContext.id = 222;
+
+/***/ }),
+
+/***/ 269:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return HomePage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(38);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__viewer_logging_viewer_filter_service__ = __webpack_require__(66);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+var HomePage = /** @class */ (function () {
+    function HomePage(navCtrl, loggingViewerFilterService, toastCtrl, platform) {
+        this.navCtrl = navCtrl;
+        this.loggingViewerFilterService = loggingViewerFilterService;
+        this.toastCtrl = toastCtrl;
+        this.platform = platform;
+        this.level = '0';
+        this.maxMessagesToLogToFile = 0;
+        this.maxFilesToSave = 3;
+        this.messagesFromFile = [];
+        this.meassage = 'log something...';
+    }
+    HomePage.prototype.getFile = function (ev) {
+        var _this = this;
+        var files = ev.target.files;
+        console.log(files);
+        var prms = [];
+        for (var _i = 0, files_1 = files; _i < files_1.length; _i++) {
+            var f = files_1[_i];
+            prms.push(this.readFormFile(f));
+        }
+        Promise.all(prms).then(function () {
+            _this.messagesFromFile.sort(function (a, b) {
+                return new Date(a.timeStamp).getTime() - new Date(b.timeStamp).getTime();
+            });
+            _this.loggingViewerFilterService.filterChanged.emit();
+        });
+    };
+    HomePage.prototype.readFormFile = function (file) {
+        var _this = this;
+        return new Promise(function (res, rej) {
+            var fReader = new FileReader();
+            fReader.onerror = function (e) { rej(e); };
+            fReader.onload = function (ev) {
+                var _a;
+                if (fReader.readyState === 2) {
+                    var result = fReader.result;
+                    try {
+                        _this.messagesFromFile = (_a = _this.messagesFromFile).concat.apply(_a, JSON.parse(result));
+                    }
+                    catch (e) {
+                        _this.toast(e);
+                    }
+                }
+            };
+            fReader.onloadend = function () {
+                //this.loggingViewerFilterService.filterChanged.emit();
+                res('done');
+            };
+            fReader.readAsText(file);
+        });
+    };
+    HomePage.prototype.clearLogs = function () {
+        var _this = this;
+        console.log('clearLogs');
+        this.messagesFromFile = [];
+        setTimeout(function () { _this.loggingViewerFilterService.filterChanged.emit(); }, 20);
+    };
+    HomePage.prototype.toast = function (msg) {
+        var t = this.toastCtrl.create({
+            message: msg,
+            duration: 3000
+        });
+        t.present();
+    };
+    HomePage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-home',template:/*ion-inline-start:"D:\projects\bks-log-viewer\src\pages\home\home.html"*/'<ion-header>\n\n  <ion-navbar color="dark">\n\n    <ion-title>\n\n      BKS Log Viewer\n\n    </ion-title>\n\n    <ion-buttons end>\n\n        <input hidden #fl type="file" accept=".json" multiple (change)="getFile($event)" />\n\n        <button item-end icon-start ion-button (click)="fl.value = \'\';fl.click()">\n\n            <ion-icon end name="download"></ion-icon>\n\n          Browse\n\n        </button>\n\n        <button item-end ion-button default clear icon-only color="danger" (click)="clearLogs()">\n\n          <ion-icon name="trash"></ion-icon>\n\n        </button>\n\n    </ion-buttons>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content padding class="back">\n\n  <ion-grid>\n\n    <ion-row justify-content-center>\n\n  <ion-col col-lg-10 col-xl-8>\n\n  <ion-card>\n\n    <!-- <ion-card-header>\n\n      <ion-item no-lines>\n\n        <input hidden #fl type="file" accept=".json" (change)="getFile($event)" />\n\n        <button item-end ion-button default (click)="fl.value = \'\';fl.click()">Browse</button>\n\n        <button item-end ion-button default clear icon-only color="danger" (click)="clearLogs()">\n\n          <ion-icon name="trash"></ion-icon>\n\n        </button>\n\n      </ion-item>\n\n    </ion-card-header> -->\n\n    <ion-toolbar>\n\n      <ionic-logging-viewer-search></ionic-logging-viewer-search>\n\n    </ion-toolbar>\n\n    <ion-toolbar>\n\n      <ionic-logging-viewer-levels></ionic-logging-viewer-levels>\n\n    </ion-toolbar>\n\n    <ionic-logging-viewer [logMessages]="messagesFromFile"></ionic-logging-viewer>\n\n  </ion-card>\n\n</ion-col>\n\n</ion-row>\n\n</ion-grid>\n\n\n\n</ion-content>'/*ion-inline-end:"D:\projects\bks-log-viewer\src\pages\home\home.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_2__viewer_logging_viewer_filter_service__["a" /* LoggingViewerFilterService */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* ToastController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* Platform */]])
+    ], HomePage);
+    return HomePage;
+}());
+
+//# sourceMappingURL=home.js.map
+
+/***/ }),
+
+/***/ 270:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return LoggingViewerModalComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(38);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_logging_service__ = __webpack_require__(41);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+/**
+ * Ionic modal containing the LoggingViewerComponent.
+ */
+var LoggingViewerModalComponent = /** @class */ (function () {
+    function LoggingViewerModalComponent(viewController, navParams, loggingService) {
+        this.viewController = viewController;
+        this.logger = loggingService.getLogger("Ionic.Logging.Viewer.Modal.Component");
+        var methodName = "ctor";
+        this.logger.entry(methodName);
+        this.language = navParams.get("language");
+        this.translation = navParams.get("translation");
+        this.logger.exit(methodName);
+    }
+    /**
+     * Initializes the LoggingViewerModalComponent.
+     * It configures the supported translations.
+     */
+    LoggingViewerModalComponent.prototype.ngOnInit = function () {
+        // prepare translations
+        this.translations = {};
+        // tslint:disable-next-line:no-string-literal
+        this.translations["en"] = {
+            cancel: "Cancel",
+            searchPlaceholder: "Search",
+            title: "Logging",
+        };
+        // tslint:disable-next-line:no-string-literal
+        this.translations["de"] = {
+            cancel: "Abbrechen",
+            searchPlaceholder: "Suchen",
+            title: "Konfiguration",
+        };
+    };
+    /**
+     * Eventhandler called by Ionic when the modal is opened.
+     */
+    LoggingViewerModalComponent.prototype.ionViewDidEnter = function () {
+        var methodName = "ionViewDidEnter";
+        this.logger.entry(methodName);
+        this.logger.exit(methodName);
+    };
+    /**
+     * Eventhandler called when the cancel button is clicked.
+     */
+    LoggingViewerModalComponent.prototype.onClose = function () {
+        var methodName = "onClose";
+        this.logger.entry(methodName);
+        this.viewController.dismiss();
+        this.logger.exit(methodName);
+    };
+    /**
+     * Helper method returning the current translation:
+     * - the property translation if defined
+     * - the translation according property language if valid
+     * - English translation, otherwise
+     */
+    LoggingViewerModalComponent.prototype.getTranslation = function () {
+        if (typeof this.translation !== "undefined") {
+            return this.translation;
+        }
+        else if (typeof this.language !== "undefined" && typeof this.translations[this.language] === "object") {
+            return this.translations[this.language];
+        }
+        else {
+            // tslint:disable-next-line:no-string-literal
+            return this.translations["en"];
+        }
+    };
+    LoggingViewerModalComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            template: "<ion-header>" +
+                "<ion-toolbar color=\"primary\">" +
+                "<ion-title>{{ getTranslation().title }}</ion-title>" +
+                "<ion-buttons start>" +
+                "<button ion-button hideWhen=\"android,windows\" (click)=\"onClose()\" >" +
+                "{{ getTranslation().cancel }}" +
+                "</button>" +
+                "<button ion-button icon-only showWhen=\"android,windows\" (click)=\"onClose()\" >" +
+                "<ion-icon name=\"md-close\"></ion-icon>" +
+                "</button>" +
+                "</ion-buttons>" +
+                "</ion-toolbar>" +
+                "<ion-toolbar>" +
+                "<ionic-logging-viewer-search [placeholder]=\"getTranslation().searchPlaceholder\"></ionic-logging-viewer-search>" +
+                "</ion-toolbar>" +
+                "<ion-toolbar>" +
+                "<ionic-logging-viewer-levels></ionic-logging-viewer-levels>" +
+                "</ion-toolbar>" +
+                "</ion-header>" +
+                "<ion-content>" +
+                "<ionic-logging-viewer></ionic-logging-viewer>" +
+                "</ion-content>",
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* ViewController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_logging_service__["b" /* LoggingService */]])
+    ], LoggingViewerModalComponent);
+    return LoggingViewerModalComponent;
+}());
+
+//# sourceMappingURL=logging-viewer-modal.component.js.map
+
+/***/ }),
+
+/***/ 271:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__ = __webpack_require__(272);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_module__ = __webpack_require__(389);
+
+
+Object(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_1__app_module__["a" /* AppModule */]);
+//# sourceMappingURL=main.js.map
+
+/***/ }),
+
+/***/ 389:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__ = __webpack_require__(46);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common_http__ = __webpack_require__(180);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_ionic_angular__ = __webpack_require__(38);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__ionic_native_splash_screen__ = __webpack_require__(262);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__ionic_native_status_bar__ = __webpack_require__(266);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_ionic_logging_service__ = __webpack_require__(41);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__app_component__ = __webpack_require__(440);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__pages_home_home__ = __webpack_require__(269);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__pages_viewer_logging_viewer_module__ = __webpack_require__(441);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+
+
+
+
+var AppModule = /** @class */ (function () {
+    function AppModule() {
+    }
+    AppModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_2__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_7__app_component__["a" /* MyApp */],
+                __WEBPACK_IMPORTED_MODULE_8__pages_home_home__["a" /* HomePage */]
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["a" /* BrowserModule */],
+                __WEBPACK_IMPORTED_MODULE_1__angular_common_http__["b" /* HttpClientModule */],
+                __WEBPACK_IMPORTED_MODULE_3_ionic_angular__["c" /* IonicModule */].forRoot(__WEBPACK_IMPORTED_MODULE_7__app_component__["a" /* MyApp */], {}, {
+                    links: []
+                }),
+                __WEBPACK_IMPORTED_MODULE_9__pages_viewer_logging_viewer_module__["a" /* LoggingViewerModule */],
+            ],
+            bootstrap: [__WEBPACK_IMPORTED_MODULE_3_ionic_angular__["a" /* IonicApp */]],
+            entryComponents: [
+                __WEBPACK_IMPORTED_MODULE_7__app_component__["a" /* MyApp */],
+                __WEBPACK_IMPORTED_MODULE_8__pages_home_home__["a" /* HomePage */]
+            ],
+            providers: [
+                __WEBPACK_IMPORTED_MODULE_5__ionic_native_status_bar__["a" /* StatusBar */],
+                __WEBPACK_IMPORTED_MODULE_4__ionic_native_splash_screen__["a" /* SplashScreen */],
+                __WEBPACK_IMPORTED_MODULE_6_ionic_logging_service__["b" /* LoggingService */],
+                { provide: __WEBPACK_IMPORTED_MODULE_2__angular_core__["u" /* ErrorHandler */], useClass: __WEBPACK_IMPORTED_MODULE_3_ionic_angular__["b" /* IonicErrorHandler */] }
+            ]
+        })
+    ], AppModule);
+    return AppModule;
+}());
+
+//# sourceMappingURL=app.module.js.map
+
+/***/ }),
+
+/***/ 440:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MyApp; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(38);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_status_bar__ = __webpack_require__(266);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ionic_native_splash_screen__ = __webpack_require__(262);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__pages_home_home__ = __webpack_require__(269);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+var MyApp = /** @class */ (function () {
+    function MyApp(platform, statusBar, splashScreen) {
+        this.rootPage = __WEBPACK_IMPORTED_MODULE_4__pages_home_home__["a" /* HomePage */];
+        platform.ready().then(function () {
+            // Okay, so the platform is ready and our plugins are available.
+            // Here you can do any higher level native things you might need.
+            statusBar.styleDefault();
+            statusBar.styleLightContent();
+            splashScreen.hide();
+        });
+    }
+    MyApp = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({template:/*ion-inline-start:"D:\projects\bks-log-viewer\src\app\app.html"*/'<ion-nav [root]="rootPage"></ion-nav>\n'/*ion-inline-end:"D:\projects\bks-log-viewer\src\app\app.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* Platform */], __WEBPACK_IMPORTED_MODULE_2__ionic_native_status_bar__["a" /* StatusBar */], __WEBPACK_IMPORTED_MODULE_3__ionic_native_splash_screen__["a" /* SplashScreen */]])
+    ], MyApp);
+    return MyApp;
+}());
+
+//# sourceMappingURL=app.component.js.map
+
+/***/ }),
+
+/***/ 441:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return LoggingViewerModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(38);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__logging_viewer_filter_service__ = __webpack_require__(66);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__levels_component_logging_viewer_levels_component__ = __webpack_require__(442);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__logging_viewer_modal_component__ = __webpack_require__(270);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__logging_viewer_modal_manager__ = __webpack_require__(443);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__search_component_logging_viewer_search_component__ = __webpack_require__(444);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__viewr_component_logging_viewer_component__ = __webpack_require__(445);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+
+
+/**
+ * LoggingViewerModule is an NgModule that provides a viewer component showing the logs
+ * currently written the LoggingService.
+ *
+ * The module is meant for use at development and test, not for production.
+ *
+ * The module contains mainly
+ * - LoggingViewerComponent: directive showing the data, which can placed anywhere in your app
+ * - LoggingViewerModalManager: provides method to open a modal containing the component
+ *
+ * Additionally, there are two components for filtering the data:
+ * - LoggingViewerLevelComponent: allows filtering by log level
+ * - LoggingViewerSearchComponent: allows filtering by an arbitrary expression
+ */
+var LoggingViewerModule = /** @class */ (function () {
+    function LoggingViewerModule() {
+    }
+    LoggingViewerModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_4__logging_viewer_modal_component__["a" /* LoggingViewerModalComponent */],
+                __WEBPACK_IMPORTED_MODULE_7__viewr_component_logging_viewer_component__["a" /* LoggingViewerComponent */],
+                __WEBPACK_IMPORTED_MODULE_3__levels_component_logging_viewer_levels_component__["a" /* LoggingViewerLevelsComponent */],
+                __WEBPACK_IMPORTED_MODULE_6__search_component_logging_viewer_search_component__["a" /* LoggingViewerSearchComponent */],
+            ],
+            entryComponents: [
+                __WEBPACK_IMPORTED_MODULE_4__logging_viewer_modal_component__["a" /* LoggingViewerModalComponent */],
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_7__viewr_component_logging_viewer_component__["a" /* LoggingViewerComponent */],
+                __WEBPACK_IMPORTED_MODULE_3__levels_component_logging_viewer_levels_component__["a" /* LoggingViewerLevelsComponent */],
+                __WEBPACK_IMPORTED_MODULE_4__logging_viewer_modal_component__["a" /* LoggingViewerModalComponent */],
+                __WEBPACK_IMPORTED_MODULE_6__search_component_logging_viewer_search_component__["a" /* LoggingViewerSearchComponent */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["c" /* IonicModule */],
+            ],
+            providers: [
+                __WEBPACK_IMPORTED_MODULE_2__logging_viewer_filter_service__["a" /* LoggingViewerFilterService */],
+                __WEBPACK_IMPORTED_MODULE_5__logging_viewer_modal_manager__["a" /* LoggingViewerModalManager */],
+            ],
+        })
+    ], LoggingViewerModule);
+    return LoggingViewerModule;
+}());
+
+//# sourceMappingURL=logging-viewer.module.js.map
+
+/***/ }),
+
+/***/ 442:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return LoggingViewerLevelsComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_logging_service__ = __webpack_require__(41);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__logging_viewer_filter_service__ = __webpack_require__(66);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+/**
+ * Component for displaying the log levels for filtering the current logs.
+ * The component can be embedded in any web page using the directive ionic-logging-viewer-levels.
+ */
+var LoggingViewerLevelsComponent = /** @class */ (function () {
+    function LoggingViewerLevelsComponent(loggingService, loggingViewerFilterService) {
+        this.loggingViewerFilterService = loggingViewerFilterService;
+        this.logger = loggingService.getLogger("Ionic.Logging.Viewer.Levels.Component");
+        var methodName = "ctor";
+        this.logger.entry(methodName);
+        this.logLevels = [];
+        this.logLevels.push("DEBUG", "INFO", "WARN", "ERROR");
+        this.selectedLevel = loggingViewerFilterService.level;
+        this.logger.exit(methodName);
+    }
+    LoggingViewerLevelsComponent.prototype.ngOnInit = function () {
+        var _this = this;
+        var methodName = "ngOnInit";
+        this.logger.entry(methodName);
+        // subscribe to loggingViewerFilterService.filterChanged event, to refresh,
+        // when someone else modifies the level
+        this.filterChangedSubscription = this.loggingViewerFilterService.filterChanged.subscribe(function () {
+            _this.selectedLevel = _this.loggingViewerFilterService.level;
+        });
+        this.logger.exit(methodName);
+    };
+    LoggingViewerLevelsComponent.prototype.ngOnDestroy = function () {
+        var methodName = "ngOnDestroy";
+        this.logger.entry(methodName);
+        this.filterChangedSubscription.unsubscribe();
+        this.logger.exit(methodName);
+    };
+    LoggingViewerLevelsComponent.prototype.onLevelChanged = function () {
+        var methodName = "onLevelChanged";
+        this.logger.entry(methodName, this.selectedLevel);
+        this.loggingViewerFilterService.level = this.selectedLevel;
+        this.logger.exit(methodName);
+    };
+    LoggingViewerLevelsComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: "ionic-logging-viewer-levels",template:/*ion-inline-start:"D:\projects\bks-log-viewer\src\pages\viewer\levels-component\logging-viewer-levels.component.html"*/'<ion-segment [(ngModel)]="selectedLevel" (ionChange)="onLevelChanged()">\n\n    <ion-segment-button *ngFor="let logLevel of logLevels" [value]="logLevel">\n\n        {{ logLevel }}\n\n    </ion-segment-button>\n\n</ion-segment>'/*ion-inline-end:"D:\projects\bks-log-viewer\src\pages\viewer\levels-component\logging-viewer-levels.component.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_logging_service__["b" /* LoggingService */],
+            __WEBPACK_IMPORTED_MODULE_2__logging_viewer_filter_service__["a" /* LoggingViewerFilterService */]])
+    ], LoggingViewerLevelsComponent);
+    return LoggingViewerLevelsComponent;
+}());
+
+//# sourceMappingURL=logging-viewer-levels.component.js.map
+
+/***/ }),
+
+/***/ 443:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return LoggingViewerModalManager; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(38);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__logging_viewer_modal_component__ = __webpack_require__(270);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_ionic_logging_service__ = __webpack_require__(41);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+/**
+ * Helper class which makes the usage of the LoggingViewerModalComponent more comfortable.
+ */
+var LoggingViewerModalManager = /** @class */ (function () {
+    function LoggingViewerModalManager(modalController, loggingService) {
+        this.modalController = modalController;
+        /**
+         * Event submitted when the modal gets closed.
+         */
+        this.modalClosed = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* EventEmitter */]();
+        this.logger = loggingService.getLogger("Ionic.Logging.Viewer.Modal.Manager");
+        var methodName = "ctor";
+        this.logger.entry(methodName);
+        this.logger.exit(methodName);
+    }
+    /**
+     * Opens the modal.
+     * @returns Promise which gets resolved as soon as the modal is shown.
+     */
+    LoggingViewerModalManager.prototype.openModal = function (language, translation) {
+        var _this = this;
+        var methodName = "openModal";
+        this.logger.entry(methodName);
+        var modal = this.modalController.create(__WEBPACK_IMPORTED_MODULE_2__logging_viewer_modal_component__["a" /* LoggingViewerModalComponent */], {
+            language: language,
+            translation: translation,
+        });
+        modal.onDidDismiss(function () {
+            _this.onModalClosed();
+        });
+        var promise = modal.present();
+        this.logger.exit(methodName);
+        return promise;
+    };
+    /**
+     * Callback called when the modal is closed.
+     */
+    LoggingViewerModalManager.prototype.onModalClosed = function () {
+        var methodName = "onModalClosed";
+        this.logger.entry(methodName);
+        this.modalClosed.emit();
+        this.logger.exit(methodName);
+    };
+    LoggingViewerModalManager = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Injectable */])(),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* ModalController */],
+            __WEBPACK_IMPORTED_MODULE_3_ionic_logging_service__["b" /* LoggingService */]])
+    ], LoggingViewerModalManager);
+    return LoggingViewerModalManager;
+}());
+
+//# sourceMappingURL=logging-viewer-modal.manager.js.map
+
+/***/ }),
+
+/***/ 444:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return LoggingViewerSearchComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_logging_service__ = __webpack_require__(41);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__logging_viewer_filter_service__ = __webpack_require__(66);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+/**
+ * Component for displaying the search bar for filtering the current logs.
+ * The component can be embedded in any web page using the directive ionic-logging-viewer-search.
+ */
+var LoggingViewerSearchComponent = /** @class */ (function () {
+    function LoggingViewerSearchComponent(loggingService, loggingViewerFilterService) {
+        this.loggingViewerFilterService = loggingViewerFilterService;
+        this.logger = loggingService.getLogger("Ionic.Logging.Viewer.Search.Component");
+        var methodName = "ctor";
+        this.logger.entry(methodName);
+        if (!this.placeholder) {
+            this.placeholder = "Search";
+        }
+        this.search = this.loggingViewerFilterService.search;
+        this.logger.exit(methodName);
+    }
+    LoggingViewerSearchComponent.prototype.ngOnInit = function () {
+        var _this = this;
+        var methodName = "ngOnInit";
+        this.logger.entry(methodName);
+        // subscribe to loggingViewerFilterService.filterChanged event, to refresh,
+        // when someone else modifies the search value
+        this.filterChangedSubscription = this.loggingViewerFilterService.filterChanged.subscribe(function () {
+            _this.search = _this.loggingViewerFilterService.search;
+        });
+        this.logger.exit(methodName);
+    };
+    LoggingViewerSearchComponent.prototype.ngOnDestroy = function () {
+        var methodName = "ngOnDestroy";
+        this.logger.entry(methodName);
+        this.filterChangedSubscription.unsubscribe();
+        this.logger.exit(methodName);
+    };
+    LoggingViewerSearchComponent.prototype.onSearchChanged = function () {
+        var methodName = "onSearchChanged";
+        this.logger.entry(methodName);
+        this.loggingViewerFilterService.search = this.search;
+        this.logger.exit(methodName);
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Input */])(),
+        __metadata("design:type", String)
+    ], LoggingViewerSearchComponent.prototype, "placeholder", void 0);
+    LoggingViewerSearchComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: "ionic-logging-viewer-search",template:/*ion-inline-start:"D:\projects\bks-log-viewer\src\pages\viewer\search-component\logging-viewer-search.component.html"*/'<ion-searchbar placeholder="{{placeholder}}" [(ngModel)]="search" (ionInput)="onSearchChanged()"></ion-searchbar>'/*ion-inline-end:"D:\projects\bks-log-viewer\src\pages\viewer\search-component\logging-viewer-search.component.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_logging_service__["b" /* LoggingService */],
+            __WEBPACK_IMPORTED_MODULE_2__logging_viewer_filter_service__["a" /* LoggingViewerFilterService */]])
+    ], LoggingViewerSearchComponent);
+    return LoggingViewerSearchComponent;
+}());
+
+//# sourceMappingURL=logging-viewer-search.component.js.map
+
+/***/ }),
+
+/***/ 445:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return LoggingViewerComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_logging_service__ = __webpack_require__(41);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__logging_viewer_filter_service__ = __webpack_require__(66);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+/**
+ * Component for displaying the current logs.
+ * The component can be embedded in any web page using the directive ionic-logging-viewer.
+ */
+var LoggingViewerComponent = /** @class */ (function () {
+    function LoggingViewerComponent(loggingService, loggingViewerFilterService) {
+        this.loggingService = loggingService;
+        this.loggingViewerFilterService = loggingViewerFilterService;
+        this.logger = loggingService.getLogger("Ionic.Logging.Viewer.Component");
+        var methodName = "ctor";
+        this.logger.entry(methodName);
+        this.logger.exit(methodName);
+    }
+    LoggingViewerComponent.prototype.ngOnInit = function () {
+        var _this = this;
+        var methodName = "ngOnInit";
+        this.logger.entry(methodName);
+        //this.logMessages = this.loggingService.getLogMessages();
+        //this.logMessages = this.fromFileMsgs
+        this.filterLogMessages();
+        // subscribe to loggingService.logMessagesChanged event, to refresh, when new message is logged
+        this.logMessagesChangedSubscription = this.loggingService.logMessagesChanged.subscribe(function () {
+            _this.logMessages = _this.loggingService.getLogMessages();
+            _this.filterLogMessages();
+        });
+        // subscribe to loggingViewerFilterService.filterChanged event, to refresh, when filter is modified
+        this.filterChangedSubscription = this.loggingViewerFilterService.filterChanged.subscribe(function () {
+            _this.filterLogMessages();
+        });
+        this.logger.exit(methodName);
+    };
+    LoggingViewerComponent.prototype.ngOnDestroy = function () {
+        var methodName = "ngOnDestroy";
+        this.logger.entry(methodName);
+        this.logMessagesChangedSubscription.unsubscribe();
+        this.filterChangedSubscription.unsubscribe();
+        this.logger.exit(methodName);
+    };
+    LoggingViewerComponent.prototype.filterLogMessages = function () {
+        var _this = this;
+        this.logMessagesForDisplay = this.logMessages.filter(function (message) {
+            return _this.filterLogMessagesByLevel(message) && _this.filterLogMessagesBySearch(message);
+        });
+    };
+    LoggingViewerComponent.prototype.filterLogMessagesByLevel = function (message) {
+        var levelValue = this.loggingViewerFilterService.level;
+        return __WEBPACK_IMPORTED_MODULE_1_ionic_logging_service__["a" /* LogLevelConverter */].levelFromString(message.level) >= __WEBPACK_IMPORTED_MODULE_1_ionic_logging_service__["a" /* LogLevelConverter */].levelFromString(levelValue);
+    };
+    LoggingViewerComponent.prototype.filterLogMessagesBySearch = function (message) {
+        var searchValue = new RegExp(this.loggingViewerFilterService.search, "i");
+        return message.logger.search(searchValue) >= 0 ||
+            message.methodName.search(searchValue) >= 0 ||
+            message.message.join("|").search(searchValue) >= 0;
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Input */])(),
+        __metadata("design:type", Array)
+    ], LoggingViewerComponent.prototype, "logMessages", void 0);
+    LoggingViewerComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: "ionic-logging-viewer",template:/*ion-inline-start:"D:\projects\bks-log-viewer\src\pages\viewer\viewr-component\logging-viewer.component.html"*/'<ion-list>\n\n    <ion-item *ngFor="let logMessage of logMessagesForDisplay">\n\n        <p>{{ logMessage.timeStamp | date:\'dd.MM.yyyy HH:mm:ss\' }} {{ logMessage.level }}</p>\n\n        <p>{{ logMessage.logger }}</p>\n\n        <p>\n\n            {{ logMessage.methodName }}\n\n            <span *ngFor="let messagePart of logMessage.message"> {{ messagePart }} </span>\n\n        </p>\n\n    </ion-item>\n\n</ion-list>'/*ion-inline-end:"D:\projects\bks-log-viewer\src\pages\viewer\viewr-component\logging-viewer.component.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_logging_service__["b" /* LoggingService */],
+            __WEBPACK_IMPORTED_MODULE_2__logging_viewer_filter_service__["a" /* LoggingViewerFilterService */]])
+    ], LoggingViewerComponent);
+    return LoggingViewerComponent;
+}());
+
+//# sourceMappingURL=logging-viewer.component.js.map
+
+/***/ }),
+
+/***/ 66:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return LoggingViewerFilterService; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_logging_service__ = __webpack_require__(41);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+/**
+ * Service for storing filter settings for logging viewer.
+ */
+var LoggingViewerFilterService = /** @class */ (function () {
+    function LoggingViewerFilterService(loggingService) {
+        this.logger = loggingService.getLogger("Ionic.Logging.Viewer.Filter.Service");
+        var methodName = "ctor";
+        this.logger.entry(methodName);
+        this.levelValue = "DEBUG";
+        this.searchValue = "";
+        this.filterChanged = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* EventEmitter */]();
+        this.logger.exit(methodName);
+    }
+    Object.defineProperty(LoggingViewerFilterService.prototype, "level", {
+        /**
+         * Gets the current log level.
+         * @return log level
+         */
+        get: function () {
+            return this.levelValue;
+        },
+        /**
+         * Sets the new log level and emits a filterChanged event.
+         * @param value new slog level
+         */
+        set: function (value) {
+            this.levelValue = value;
+            this.filterChanged.emit();
+        },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(LoggingViewerFilterService.prototype, "search", {
+        /**
+         * Gets the current search value.
+         * @return search value
+         */
+        get: function () {
+            return this.searchValue;
+        },
+        /**
+         * Sets the new search value and emits a filterChanged event.
+         * @param value new search value
+         */
+        set: function (value) {
+            this.searchValue = value;
+            this.filterChanged.emit();
+        },
+        enumerable: true,
+        configurable: true
+    });
+    LoggingViewerFilterService = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Injectable */])(),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_logging_service__["b" /* LoggingService */]])
+    ], LoggingViewerFilterService);
+    return LoggingViewerFilterService;
+}());
+
+//# sourceMappingURL=logging-viewer-filter.service.js.map
+
+/***/ })
+
+},[271]);
+//# sourceMappingURL=main.js.map
