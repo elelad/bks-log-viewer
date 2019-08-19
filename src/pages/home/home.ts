@@ -43,14 +43,16 @@ export class HomePage {
       fReader.onerror = (e) => { rej(e) }
       fReader.onload = (ev) => {
         if (fReader.readyState === 2) {
-          const result: any = fReader.result;
+          let result: any = fReader.result;
+          if (!result.startsWith('[')){
+             result = "[" + result + "]";  
+          }
           try { this.messagesFromFile = this.messagesFromFile.concat(...JSON.parse(result)) }
           catch (e) { this.toast(e) }
         }
 
       }
       fReader.onloadend = () => {
-        //this.loggingViewerFilterService.filterChanged.emit();
         res('done');
       }
       fReader.readAsText(file);
